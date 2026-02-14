@@ -1,0 +1,7 @@
+What I prompted:
+What are some ways that I can improve this code that I worked on
+
+----------------------------------------------------------------------
+What response I recieved:
+Gave me tips and tricks on How to fix up code and make it easier to use but did not directly give me the code but tried helping without doing that =
+----------------------------------------------------------------------
